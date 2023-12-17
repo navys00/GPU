@@ -1,0 +1,2 @@
+C:\Users\retyr\OneDrive\Desktop\CudaRuntime2\x64\Debug\CudaRuntime2.exe
+D:\вуз - 4 курс\gpu\CudaRuntime2\x64\Debug\CudaRuntime2.exe
