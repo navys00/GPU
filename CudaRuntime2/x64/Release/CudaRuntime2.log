@@ -1,0 +1,15 @@
+﻿  Compiling CUDA source file GPU.cu...
+  
+  D:\GPU\CudaRuntime2>"F:\cuda2\bin\nvcc.exe" -gencode=arch=compute_52,code=\"sm_52,compute_52\" --use-local-env -ccbin "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\bin\HostX64\x64" -x cu   -IF:\cuda2\include -IF:\cuda2\include     --keep-dir x64\Release  -maxrregcount=0   --machine 64 --compile -cudart static    -DWIN32 -DWIN64 -DNDEBUG -D_CONSOLE -D_MBCS -Xcompiler "/EHsc /W3 /nologo /O2 /FS   /MD " -Xcompiler "/Fdx64\Release\vc143.pdb" -o D:\GPU\CudaRuntime2\x64\Release\GPU.cu.obj "D:\GPU\CudaRuntime2\GPU.cu" 
+cl : командная строка warning D9002: пропуск неизвестного параметра "/std:c++11"
+cl : командная строка warning D9002: пропуск неизвестного параметра "/std:c++11"
+  GPU.cu
+cl : командная строка warning D9002: пропуск неизвестного параметра "/std:c++11"
+  tmpxft_00007324_00000000-7_GPU.cudafe1.cpp
+     Создается библиотека D:\GPU\CudaRuntime2\x64\Release\CudaRuntime2.lib и объект D:\GPU\CudaRuntime2\x64\Release\CudaRuntime2.exp
+LINK : warning LNK4098: библиотека по умолчанию "LIBCMT" конфликтует с использованием других библиотек; используйте /NODEFAULTLIB:library
+  Создание кода
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 45 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  CudaRuntime2.vcxproj -> D:\GPU\CudaRuntime2\x64\Release\CudaRuntime2.exe

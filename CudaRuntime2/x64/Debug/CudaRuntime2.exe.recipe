@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>D:\вуз - 4 курс\gpu\CudaRuntime2\x64\Debug\CudaRuntime2.exe</FullPath>
+      <FullPath>D:\вуз - 4 курс\gpu_lab2\GPU\CudaRuntime2\x64\Debug\CudaRuntime2.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />
